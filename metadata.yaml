@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40816'
     url: http://www.gutenberg.org/2009/agents/40816
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40778#Lamarck-et-son-OEuvre
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2012-09-16'
 gutenberg_type: Text
